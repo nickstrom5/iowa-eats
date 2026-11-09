@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.2",
+ "records_through": "2026-11-06",
+ "published": "2026-11-06T22:35:15Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-central-iowa": {
+   "path": "detail-central-iowa-660c27bd02ca.json",
+   "sha256": "660c27bd02ca4b9b169e176bff77289d4b1ac541deeff8ece5f2a35ff552aa67",
+   "bytes": 154424,
+   "rows": 2400
+  },
+  "detail-eastern-iowa": {
+   "path": "detail-eastern-iowa-9e66eb8ecc21.json",
+   "sha256": "9e66eb8ecc219f090c433cd226dcd9c45cdd87a659b36a1f948992ad4289bb3f",
+   "bytes": 79087,
+   "rows": 1250
+  },
+  "detail-mississippi-river": {
+   "path": "detail-mississippi-river-c84b4a14595f.json",
+   "sha256": "c84b4a14595f880d9526840c0cb661686062e8545e01d3d75bf2476e7c70a147",
+   "bytes": 72043,
+   "rows": 1157
+  },
+  "detail-northeast-iowa": {
+   "path": "detail-northeast-iowa-56e16bac93bf.json",
+   "sha256": "56e16bac93bf2daa065c11db1a0bcb76c0abe7cee8d1ad2ce5c2b41313eef362",
+   "bytes": 47053,
+   "rows": 798
+  },
+  "detail-southern-iowa": {
+   "path": "detail-southern-iowa-c61535efd2de.json",
+   "sha256": "c61535efd2de006094b456b67b40d2f777a8c3d87f24ba4c5b5a60bdf34e6144",
+   "bytes": 20067,
+   "rows": 353
+  },
+  "detail-western-iowa": {
+   "path": "detail-western-iowa-4ff45803f3c7.json",
+   "sha256": "4ff45803f3c73382acb162557c9ecdb6400bf2dd68f6e4691aa853c16b8b26d4",
+   "bytes": 79306,
+   "rows": 1338
+  },
+  "places": {
+   "path": "places-c3e63dbbfe2f.json",
+   "sha256": "c3e63dbbfe2faf86db44d7018b97ac28f63d70ec8fe456fa9bfe6fe87c0e229b",
+   "bytes": 1188300,
+   "rows": 7448
+  }
+ },
+ "counts": {
+  "places": 7448,
+  "files": 7,
+  "bytes": 1640280,
+  "restaurants": 6739
+ },
+ "previous": {
+  "version": "2026-11-06.1",
+  "files": {
+   "detail-central-iowa": "detail-central-iowa-d6d1341018f5.json",
+   "detail-eastern-iowa": "detail-eastern-iowa-a4cb40c9b206.json",
+   "detail-mississippi-river": "detail-mississippi-river-c84b4a14595f.json",
+   "detail-northeast-iowa": "detail-northeast-iowa-56e16bac93bf.json",
+   "detail-southern-iowa": "detail-southern-iowa-c61535efd2de.json",
+   "detail-western-iowa": "detail-western-iowa-4ff45803f3c7.json",
+   "places": "places-55be32ece06b.json"
+  }
+ }
+}

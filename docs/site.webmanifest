@@ -1,0 +1,21 @@
+{
+  "name": "Iowa Plates",
+  "short_name": "IA Eats",
+  "description": "Tenderloins, loose meats & pizza: a guide to 6,739 Iowa restaurants.",
+  "start_url": "/iowa-eats/",
+  "display": "browser",
+  "background_color": "#f7f1e3",
+  "theme_color": "#2f5d34",
+  "icons": [
+    {
+      "src": "/iowa-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/iowa-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/iowa-eats",
+ "restaurants": 6739,
+ "places_incl_hidden": 7448,
+ "towns": 626,
+ "counties": 99,
+ "on_an_official_list": 0,
+ "hand_checked_on_a_guide": 28,
+ "serves_alcohol_state_license": 0,
+ "guide_tenderloins": 9,
+ "guide_loosemeat": 3,
+ "guide_pizza": 9,
+ "guide_heritage": 6,
+ "oldest": 1,
+ "honors": 8,
+ "michelin": {},
+ "james_beard": 8,
+ "americas_classics": 2,
+ "permits_updated": "",
+ "city_pages": {
+  "Des Moines": {
+   "restaurants": 523,
+   "listed": 5,
+   "tenderloins": 0,
+   "loosemeat": 0,
+   "pizza": 1,
+   "heritage": 0,
+   "hon": 4,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Cedar Rapids": 2,
+  "Davenport": 1,
+  "Iowa City": 2,
+  "Sioux City": 1,
+  "Ames": 1,
+  "Dubuque": 0,
+  "Waterloo": 0,
+  "Council Bluffs": 1,
+  "West Des Moines": 0,
+  "Marshalltown": 2,
+  "Amana": 2,
+  "Bettendorf": 1,
+  "Grinnell": 1,
+  "Muscatine": 2,
+  "Pella": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 511959,
+   "gzip": 117970
+  },
+  "data/detail-adair-county.json": {
+   "raw": 927,
+   "gzip": 369
+  },
+  "data/detail-adams-county.json": {
+   "raw": 468,
+   "gzip": 224
+  },
+  "data/detail-allamakee-county.json": {
+   "raw": 971,
+   "gzip": 365
+  },
+  "data/detail-appanoose-county.json": {
+   "raw": 1250,
+   "gzip": 469
+  },
+  "data/detail-audubon-county.json": {
+   "raw": 518,
+   "gzip": 277
+  },
+  "data/detail-benton-county.json": {
+   "raw": 1411,
+   "gzip": 559
+  },
+  "data/detail-black-hawk-county.json": {
+   "raw": 16104,
+   "gzip": 4154
+  },
+  "data/detail-boone-county.json": {
+   "raw": 2199,
+   "gzip": 769
+  },
+  "data/detail-bremer-county.json": {
+   "raw": 2725,
+   "gzip": 987
+  },
+  "data/detail-buchanan-county.json": {
+   "raw": 1633,
+   "gzip": 588
+  },
+  "data/detail-buena-vista-county.json": {
+   "raw": 2270,
+   "gzip": 756
+  },
+  "data/detail-butler-county.json": {
+   "raw": 445,
+   "gzip": 217
+  },
+  "data/detail-calhoun-county.json": {
+   "raw": 429,
+   "gzip": 235
+  },
+  "data/detail-carroll-county.json": {
+   "raw": 2185,
+   "gzip": 744
+  },
+  "data/detail-cass-county.json": {
+   "raw": 1484,
+   "gzip": 507
+  },
+  "data/detail-cedar-county.json": {
+   "raw": 1438,
+   "gzip": 539
+  },
+  "data/detail-cerro-gordo-county.json": {
+   "raw": 6761,
+   "gzip": 1941
+  },
+  "data/detail-cherokee-county.json": {
+   "raw": 1343,
+   "gzip": 484
+  },
+  "data/detail-chickasaw-county.json": {
+   "raw": 1040,
+   "gzip": 398
+  },
+  "data/detail-clarke-county.json": {
+   "raw": 1176,
+   "gzip": 479
+  },
+  "data/detail-clay-county.json": {
+   "raw": 1869,
+   "gzip": 633
+  },
+  "data/detail-clayton-county.json": {
+   "raw": 1854,
+   "gzip": 615
+  },
+  "data/detail-clinton-county.json": {
+   "raw": 5374,
+   "gzip": 1535
+  },
+  "data/detail-crawford-county.json": {
+   "raw": 1208,
+   "gzip": 457
+  },
+  "data/detail-dallas-county.json": {
+   "raw": 12972,
+   "gzip": 3745
+  },
+  "data/detail-davis-county.json": {
+   "raw": 406,
+   "gzip": 223
+  },
+  "data/detail-decatur-county.json": {
+   "raw": 583,
+   "gzip": 255
+  },
+  "data/detail-delaware-county.json": {
+   "raw": 1426,
+   "gzip": 485
+  },
+  "data/detail-des-moines-county.json": {
+   "raw": 5546,
+   "gzip": 1650
+  },
+  "data/detail-dickinson-county.json": {
+   "raw": 4005,
+   "gzip": 1222
+  },
+  "data/detail-dubuque-county.json": {
+   "raw": 13370,
+   "gzip": 3711
+  },
+  "data/detail-emmet-county.json": {
+   "raw": 635,
+   "gzip": 266
+  },
+  "data/detail-fayette-county.json": {
+   "raw": 1583,
+   "gzip": 569
+  },
+  "data/detail-floyd-county.json": {
+   "raw": 1270,
+   "gzip": 481
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 739,
+   "gzip": 321
+  },
+  "data/detail-fremont-county.json": {
+   "raw": 861,
+   "gzip": 381
+  },
+  "data/detail-greene-county.json": {
+   "raw": 712,
+   "gzip": 317
+  },
+  "data/detail-grundy-county.json": {
+   "raw": 706,
+   "gzip": 291
+  },
+  "data/detail-guthrie-county.json": {
+   "raw": 938,
+   "gzip": 388
+  },
+  "data/detail-hamilton-county.json": {
+   "raw": 1521,
+   "gzip": 566
+  },
+  "data/detail-hancock-county.json": {
+   "raw": 427,
+   "gzip": 228
+  },
+  "data/detail-hardin-county.json": {
+   "raw": 1563,
+   "gzip": 580
+  },
+  "data/detail-harrison-county.json": {
+   "raw": 1093,
+   "gzip": 423
+  },
+  "data/detail-henry-county.json": {
+   "raw": 1913,
+   "gzip": 664
+  },
+  "data/detail-howard-county.json": {
+   "raw": 753,
+   "gzip": 304
+  },
+  "data/detail-humboldt-county.json": {
+   "raw": 745,
+   "gzip": 329
+  },
+  "data/detail-ida-county.json": {
+   "raw": 716,
+   "gzip": 310
+  },
+  "data/detail-iowa-county.json": {
+   "raw": 1388,
+   "gzip": 589
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 1897,
+   "gzip": 663
+  },
+  "data/detail-jasper-county.json": {
+   "raw": 3262,
+   "gzip": 1065
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 2200,
+   "gzip": 741
+  },
+  "data/detail-johnson-county.json": {
+   "raw": 21725,
+   "gzip": 5899
+  },
+  "data/detail-jones-county.json": {
+   "raw": 1477,
+   "gzip": 533
+  },
+  "data/detail-keokuk-county.json": {
+   "raw": 625,
+   "gzip": 280
+  },
+  "data/detail-kossuth-county.json": {
+   "raw": 1435,
+   "gzip": 531
+  },
+  "data/detail-lee-county.json": {
+   "raw": 3652,
+   "gzip": 1080
+  },
+  "data/detail-linn-county.json": {
+   "raw": 29573,
+   "gzip": 7489
+  },
+  "data/detail-louisa-county.json": {
+   "raw": 770,
+   "gzip": 288
+  },
+  "data/detail-lucas-county.json": {
+   "raw": 715,
+   "gzip": 303
+  },
+  "data/detail-lyon-county.json": {
+   "raw": 935,
+   "gzip": 354
+  },
+  "data/detail-madison-county.json": {
+   "raw": 1342,
+   "gzip": 509
+  },
+  "data/detail-mahaska-county.json": {
+   "raw": 1720,
+   "gzip": 590
+  },
+  "data/detail-marion-county.json": {
+   "raw": 3581,
+   "gzip": 1157
+  },
+  "data/detail-marshall-county.json": {
+   "raw": 3585,
+   "gzip": 1194
+  },
+  "data/detail-mills-county.json": {
+   "raw": 962,
+   "gzip": 382
+  },
+  "data/detail-mitchell-county.json": {
+   "raw": 786,
+   "gzip": 342
+  },
+  "data/detail-monona-county.json": {
+   "raw": 770,
+   "gzip": 325
+  },
+  "data/detail-monroe-county.json": {
+   "raw": 615,
+   "gzip": 270
+  },
+  "data/detail-montgomery-county.json": {
+   "raw": 914,
+   "gzip": 369
+  },
+  "data/detail-muscatine-county.json": {
+   "raw": 5469,
+   "gzip": 1631
+  },
+  "data/detail-obrien-county.json": {
+   "raw": 1764,
+   "gzip": 585
+  },
+  "data/detail-osceola-county.json": {
+   "raw": 664,
+   "gzip": 303
+  },
+  "data/detail-page-county.json": {
+   "raw": 1701,
+   "gzip": 616
+  },
+  "data/detail-palo-alto-county.json": {
+   "raw": 998,
+   "gzip": 447
+  },
+  "data/detail-plymouth-county.json": {
+   "raw": 2315,
+   "gzip": 780
+  },
+  "data/detail-pocahontas-county.json": {
+   "raw": 720,
+   "gzip": 303
+  },
+  "data/detail-polk-county.json": {
+   "raw": 67740,
+   "gzip": 16958
+  },
+  "data/detail-pottawattamie-county.json": {
+   "raw": 11634,
+   "gzip": 3124
+  },
+  "data/detail-poweshiek-county.json": {
+   "raw": 2129,
+   "gzip": 786
+  },
+  "data/detail-ringgold-county.json": {
+   "raw": 195,
+   "gzip": 107
+  },
+  "data/detail-sac-county.json": {
+   "raw": 674,
+   "gzip": 261
+  },
+  "data/detail-scott-county.json": {
+   "raw": 27858,
+   "gzip": 7193
+  },
+  "data/detail-shelby-county.json": {
+   "raw": 1348,
+   "gzip": 534
+  },
+  "data/detail-sioux-county.json": {
+   "raw": 3407,
+   "gzip": 1058
+  },
+  "data/detail-story-county.json": {
+   "raw": 11558,
+   "gzip": 3229
+  },
+  "data/detail-tama-county.json": {
+   "raw": 1190,
+   "gzip": 458
+  },
+  "data/detail-taylor-county.json": {
+   "raw": 485,
+   "gzip": 242
+  },
+  "data/detail-union-county.json": {
+   "raw": 1317,
+   "gzip": 504
+  },
+  "data/detail-van-buren-county.json": {
+   "raw": 409,
+   "gzip": 194
+  },
+  "data/detail-wapello-county.json": {
+   "raw": 4173,
+   "gzip": 1334
+  },
+  "data/detail-warren-county.json": {
+   "raw": 4301,
+   "gzip": 1331
+  },
+  "data/detail-washington-county.json": {
+   "raw": 2398,
+   "gzip": 758
+  },
+  "data/detail-wayne-county.json": {
+   "raw": 269,
+   "gzip": 168
+  },
+  "data/detail-webster-county.json": {
+   "raw": 4013,
+   "gzip": 1204
+  },
+  "data/detail-winnebago-county.json": {
+   "raw": 886,
+   "gzip": 354
+  },
+  "data/detail-winneshiek-county.json": {
+   "raw": 2535,
+   "gzip": 884
+  },
+  "data/detail-woodbury-county.json": {
+   "raw": 14604,
+   "gzip": 3871
+  },
+  "data/detail-worth-county.json": {
+   "raw": 456,
+   "gzip": 226
+  },
+  "data/detail-wright-county.json": {
+   "raw": 943,
+   "gzip": 397
+  },
+  "data/ia_shapes.json": {
+   "raw": 34446,
+   "gzip": 7442
+  },
+  "data/ids.json": {
+   "raw": 87635,
+   "gzip": 51118
+  }
+ }
+}
